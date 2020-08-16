@@ -4,17 +4,34 @@
 
 ## Motivation
 This python notebook is to satisfy the Udacity Data Science Nanodegree Project 1.\
-It uses a kaggle dataset from the 2019 Fifa Women's World Cup, on which an analysis is completed.
+
+## Investigation Overview
+This analysis covers three main questions:
+* What was the average number of goals scored by each team
+* Is there a correlation between winning a match and a player of the winning team being named as Player of the Match (POM)?
+* Does the number of shots blocked (i.e goalkeeper performance) reflect how far in the competition a team progresses?
+
+## Results
+Results of this analysis can be viewed at 
 
 ## Files
-x
+FWWC19_Analysis.ipynb contains the code used for the analysis.
+Womens_World_Cup_2019.csv contains the dataset used in the analysis.
 
-## Libraries
-x
+## Installation and Libraries
+This notebook is based on Python 3.5.4
+Required libraries:
+* os 
+* matplotlib
+* numpy
+* pandas
+* seaborn
+* shutil
 
-## Investigation Summary
-x
+## Usage
+To run the notebook, open the code in jupyter-lab and execute the code.
 
-## Acknowledgements
-x
-.
+## Acknowledgments
+The data for this project was sourced from a kaggle dataset:
+https://www.kaggle.com/dyokelson/womens-world-cup-2019-results
+
