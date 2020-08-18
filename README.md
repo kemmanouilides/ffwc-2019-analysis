@@ -3,7 +3,7 @@
 ![Image of FWWC2019](https://league-mp7static.mlsdigital.net/styles/image_landscape/s3/images/2018-Primary-WWC_Annoucement-1280x553.jpg?DBtrMIcmNSVmz3LDwZ5gwULMrwi6DbYr&itok=PKdnW2YQ&c=d9fa584fd8f4a39a11333d4b575ac52c)
 
 ## Motivation
-This python notebook is to satisfy the Udacity Data Science Nanodegree Project 1.
+This python notebook is made to analyse data from the 2019 FIFA WWC, in particular, the performance of the teams and players.
 
 ## Investigation Overview
 This analysis covers three main questions:
